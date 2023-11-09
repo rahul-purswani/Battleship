@@ -11,5 +11,4 @@ Install Python 3
 <br>On Windows: In command line, navigate to the project file and run ‘main.py'
 ## View documentation:
 In the documentation folder, open index.html to view code documentation.
-<br><br>Sources:
-<br>pygame: https://pypi.org/project/Pygame/
+
