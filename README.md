@@ -12,5 +12,4 @@ Group Project for EECS 448
 <br>View documentation:
 <br>In the documentation folder, open index.html to view code documentation.
 <br><br>Sources:
-<br>Github repository:https://github.com/DanielRJohnson/Battleship
 <br>pygame: https://pypi.org/project/Pygame/
